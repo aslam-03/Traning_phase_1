@@ -1,0 +1,306 @@
+INFO:root:Script started
+INFO:root:Task completed
+INFO:root:Script started
+INFO:root:Task completed
+INFO:root:Script started
+INFO:root:Task completed
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Script started
+INFO:root:Task completed
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Script started
+INFO:root:Task completed
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:__main__:Processing file: data1.csv
+INFO:__main__:Mean score: 87.5
+INFO:__main__:Processing file: data2.csv
+INFO:__main__:Mean score: 90.0
+INFO:__main__:Processing file: data1.csv
+INFO:__main__:Mean score: 87.5
+INFO:__main__:Processing file: data2.csv
+INFO:__main__:Mean score: 90.0
+INFO:root:Script started
+INFO:root:Task completed
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:__main__:Processing file: data1.csv
+INFO:__main__:Processing file: data2.csv
+INFO:__main__:Mean score: 87.5
+INFO:__main__:Mean score: 90.0
+INFO:__main__:Processing file: data1.csv
+INFO:__main__:Mean score: 87.5
+INFO:__main__:Processing file: data2.csv
+INFO:__main__:Mean score: 90.0
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Script started
+INFO:root:Task completed
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:__main__:Processing file: data1.csv
+INFO:__main__:Mean score: 87.5
+INFO:__main__:Processing file: data2.csv
+INFO:__main__:Mean score: 90.0
+INFO:__main__:Processing file: data1.csv
+INFO:__main__:Mean score: 87.5
+INFO:__main__:Processing file: data2.csv
+INFO:__main__:Mean score: 90.0
+INFO:__main__:Processing file: data1.csv
+INFO:__main__:Processing file: data2.csv
+INFO:__main__:Mean score: 87.5
+INFO:__main__:Mean score: 90.0
+INFO:__main__:Processing file: data1.csv
+INFO:__main__:Mean score: 87.5
+INFO:__main__:Processing file: data2.csv
+INFO:__main__:Mean score: 90.0
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Script started
+INFO:root:Task completed
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:__main__:Processing file: data1.csv
+INFO:__main__:Processing file: data2.csv
+INFO:__main__:Mean score: 87.5
+INFO:__main__:Mean score: 90.0
+INFO:__main__:Processing file: data1.csv
+INFO:__main__:Mean score: 87.5
+INFO:__main__:Processing file: data2.csv
+INFO:__main__:Mean score: 90.0
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Script started
+INFO:root:Task completed
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Script started
+INFO:root:Task completed
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   Mike   28     92
+1  Emily   22     88
+2  David   32     98
+3  Sarah   26     82
+INFO:root:Mean score: 90.0
+INFO:root:Processing file:     Name  Age  Score
+0   John   25     90
+1   Jane   30     85
+2    Bob   35     95
+3  Alice   20     80
+INFO:root:Mean score: 87.5
+INFO:root:Processing file:     Name  Age  Score
+0   Mike   28     92
+1  Emily   22     88
+2  David   32     98
+3  Sarah   26     82
+INFO:root:Mean score: 90.0
