@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/78163e819a3b42d5bb20c126b337b291/artifacts
+end_time: 1744724201261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78163e819a3b42d5bb20c126b337b291
+run_name: stately-asp-256
+run_uuid: 78163e819a3b42d5bb20c126b337b291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744724190614
+status: 3
+tags: []
+user_id: ASLAM
