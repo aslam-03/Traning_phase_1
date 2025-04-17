@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a4616886a0c746219303844032d8902d/artifacts
+end_time: 1744861271794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4616886a0c746219303844032d8902d
+run_name: victorious-hare-45
+run_uuid: a4616886a0c746219303844032d8902d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744861271709
+status: 3
+tags: []
+user_id: ASLAM

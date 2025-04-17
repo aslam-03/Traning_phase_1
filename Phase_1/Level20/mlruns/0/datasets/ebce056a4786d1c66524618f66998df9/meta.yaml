@@ -1,0 +1,13 @@
+digest: ae98ffe3
+name: dataset
+profile: '{"num_rows": 353, "num_elements": 3530}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "age", "required": true},
+  {"type": "double", "name": "sex", "required": true}, {"type": "double", "name":
+  "bmi", "required": true}, {"type": "double", "name": "bp", "required": true}, {"type":
+  "double", "name": "s1", "required": true}, {"type": "double", "name": "s2", "required":
+  true}, {"type": "double", "name": "s3", "required": true}, {"type": "double", "name":
+  "s4", "required": true}, {"type": "double", "name": "s5", "required": true}, {"type":
+  "double", "name": "s6", "required": true}]}'
+source: '{"tags": {"mlflow.user": "ASLAM", "mlflow.source.name": "C:\\Users\\ASLAM\\AppData\\Roaming\\Python\\Python311\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
